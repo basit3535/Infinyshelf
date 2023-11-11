@@ -3,6 +3,7 @@
     "type": "module",
     "scripts": {
         "main": "src/index.js",
+        "start": "node your-script.js",
         "dev": "vite",
         "build": "vite build"
     },
