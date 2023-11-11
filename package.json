@@ -2,6 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "main": "src/index.js",
         "dev": "vite",
         "build": "vite build"
     },
