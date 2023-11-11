@@ -2,8 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "main": "src/index.js",
-        "start": "node your-script.js",
+        "start": "node index.js",
         "dev": "vite",
         "build": "vite build"
     },
